@@ -1,0 +1,17 @@
+name: Kyobankatubaseballplugin
+version: "1.0"
+api-version: 1.13
+main: main.java.main.Main
+commands:
+  start:
+    description: startgame
+    default: true
+  throw:
+    description: throwball
+    default: true
+  batting:
+    description: Batting
+    default: true
+  area:
+    description: SetArea
+    default: true
